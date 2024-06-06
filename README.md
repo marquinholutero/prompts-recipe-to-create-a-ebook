@@ -7,7 +7,6 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="[https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf](https://github.com/marquinholutero/prompts-recipe-to-create-a-ebook/blob/main/output/AGRICULTURA%204.0%20A%20Revolu%C3%A7%C3%A3o%20Digital%20no%20Agroneg%C3%B3cio.pdf)" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -41,7 +40,4 @@ Midjourney：
 
 - Imagens e conteúdos utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
 
