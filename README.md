@@ -1,4 +1,3 @@
-# prompts-recipe-to-create-a-ebook
 <p align="center">
     <img width="100" src=".github/assets/banner.png">
 </p>
@@ -30,9 +29,9 @@ seguem abaixo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ChatGPT](https://chat.openai.com) 
+- [Bing Create](https://www.bing.com/images/create)
+- [Canva](https://www.canva.com/)
 
 ## 🧠 Prompts
 
